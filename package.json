@@ -1,28 +1,23 @@
 {
-  "name": "argon-dashboard-react",
+  "name": "aam-react",
   "version": "1.2.2",
-  "description": "React version of Argon Dashboard by Creative Tim",
+  "description": "React Enterprise version of the Automated Approval Software designed by Obaro Destiny Udurie for Digital Switch Concepts",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-dashboard-react.git"
+    "url": ""
   },
   "keywords": [
     "react",
     "reactjs",
-    "argon",
-    "argon-react",
+    "automated-approval-software",
+    "digital-switch",
     "dashboard",
-    "dashboard-react",
-    "argon-dashboard",
-    "argon-dashboard-react"
+    "aam-digital-switch"
   ],
   "author": "Creative Tim",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-dashboard-react/issues"
-  },
-  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
+  "homepage": "https://www.digitalswitch.net",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
